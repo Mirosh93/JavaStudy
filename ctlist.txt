@@ -1,11 +1,14 @@
 New York City, NY (Population: 8,622,357)
 Los Angeles, CA (Population: 4,085,014)
-Chicago, IL (Population: 2,670,000)
+Chicago, IL (Population: 2,670,567)
 Houston, TX (Population: 2,378,146)
 Phoenix, AZ (Population: 1,743,469)
 Philadelphia, PA (Population: 1,590,402)
 San Antonio, TX (Population: 1,579,504)
 San Diego, CA (Population: 1,469,490)
+<<<<<<< HEAD
 Florida
+=======
+>>>>>>> feature/branch-1
 Dallas, TX (Population: 1,400,337)
 San Jose, CA (Population: 1,036,242)
