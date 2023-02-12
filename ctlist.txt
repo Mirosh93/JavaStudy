@@ -6,9 +6,6 @@ Phoenix, AZ (Population: 1,743,469)
 Philadelphia, PA (Population: 1,590,402)
 San Antonio, TX (Population: 1,579,504)
 San Diego, CA (Population: 1,469,490)
-<<<<<<< HEAD
 Florida
-=======
->>>>>>> feature/branch-1
 Dallas, TX (Population: 1,400,337)
 San Jose, CA (Population: 1,036,242)
